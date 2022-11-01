@@ -9,3 +9,6 @@ Name of Mentor: <a href="https://github.com/raghavven">V Raghavendra</a> <br>
 <b>Our Projcet:</b> In this project, I first reviewed the Qiskit Nature tutorial on Protein Folding Problem, then changed the interaction model from Miyazawa-Jernigan (MJ) to Hydrophobic-polar (HP) model.
 
 The main repository for this event was in <a href="https://github.com/QIntern-2022/">this account</a>, but as it is a private repository, I copied my code here.
+
+## How to use this repository?
+You can first read the <a href="https://github.com/yadavar-m/QIntern-2022/blob/main/1-ProteinFoldingProblem.ipynb">first notebook</a> which is the introduction to the Protein Folding Problem. Then you can learn how to use Qiskit Nature Proteing Folding Package to solve the problem in the <a href="https://github.com/yadavar-m/QIntern-2022/blob/main/2-ProteinFolding_QiskitNature.ipynb">second notebook</a>. I explained more about Miyazawa-Jernigan Interaction Model in the <a href="https://github.com/yadavar-m/QIntern-2022/blob/main/3-ProteinFolding_Miyazawa_Jernigan.ipynb">third notebook</a>, and finally I replaced the Miyazawa-Jernigan model with the Hydrophobic-Polar model in the <a href="https://github.com/yadavar-m/QIntern-2022/blob/main/4-ProteinFolding_Hydrophobic_Polar.ipynb">fourth notebook</a>.
